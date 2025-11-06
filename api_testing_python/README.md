@@ -1,6 +1,5 @@
-# API Testing Project (Python)
 
-## What is this
+
 Simple API test suite using pytest and requests against the public JSONPlaceholder API.
 
 ## How to run
